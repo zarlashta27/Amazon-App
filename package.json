@@ -1,0 +1,23 @@
+{
+  "name": "tiny-storefront",
+  "version": "1.0.0",
+  "description": "Shopping app using a command-line node interface and SQL database for purchasing items. Like online shopping with DOS. This is a class exercise to practice using SQL and linking it to a node app.",
+  "main": "tinyStorefrontCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PersephoneUnderground/tiny-storefront.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PersephoneUnderground/tiny-storefront/issues"
+  },
+  "homepage": "https://github.com/PersephoneUnderground/tiny-storefront#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.16.0"
+  }
+}
